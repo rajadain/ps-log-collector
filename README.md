@@ -45,7 +45,7 @@ Will result in the creation of the directory `E:\MyLogs\web1.mysite.com` (if it 
 TODO
 ----
 
-* Find out how to map site ID's to site names
+* <del>Find out how to map site ID's to site names</del>
 * Find an rsync equivalent in Powershell for copying
 * Find out how this can be scheduled / run remotely
 * Make it configurable and give more command line options, such as delete logs after `X` days
